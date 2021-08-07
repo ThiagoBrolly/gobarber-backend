@@ -1,3 +1,9 @@
 node_modules
 .env
 notions.txt
+build/
+temp/
+.vscode/
+.idea/
+tmp/*
+!tmp/.gitkeep
